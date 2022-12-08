@@ -1,4 +1,5 @@
 ## Karina Poriadina
+![avatar] (/assets/images/markdown/avatar.png)
 #### Profile
 I am Karina Poryadina. Contact Center Manager, Entrepreneur.
 #### Work experience 
