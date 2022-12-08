@@ -9,7 +9,5 @@ I am currently studying website development. The purpose of my training is to ge
 English level B1
 ##### Phone
 +905063912891
-#### Telegram
-[@karina_por] (https://t.me/karina_por)
 #### Discord
 Karina Po (@Karina-Po)
