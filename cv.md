@@ -10,6 +10,6 @@ English level B1
 ##### Phone
 +905063912891
 #### Telegram
-@karina_por
+[@karina_por] (https://t.me/karina_por)
 #### Discord
 Karina Po (@Karina-Po)
