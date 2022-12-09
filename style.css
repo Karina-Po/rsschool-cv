@@ -1,0 +1,12 @@
+.body {
+    color:lightslategray
+}
+.p {
+    margin: 0px;
+    padding: 0px;
+}
+.avatar {
+    max-width: 80px;
+    max-height: 60px;
+    border-radius: 30px;
+}
